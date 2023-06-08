@@ -1,0 +1,11 @@
+{
+  "name": "register2",
+  "version": "1.0.0",
+  "description": "LORDS Student Register v2.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Stephen Blair",
+  "license": "ISC"
+}
